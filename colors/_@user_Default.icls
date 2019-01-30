@@ -3,28 +3,18 @@
     <property name="created">2019-01-30T09:34:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2019-01-30T09:46:02</property>
+    <property name="modified">2019-01-30T09:48:54</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="c3e88d" />
-    <option name="FILESTATUS_DELETED" value="808080" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="c792ea" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="c3e88d" />
-    <option name="FILESTATUS_changelistConflict" value="d5756c" />
-    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
   </colors>
+  <attributes>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff00" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
