@@ -3,7 +3,7 @@
     <property name="created">2019-01-30T09:34:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2019-01-30T09:48:54</property>
+    <property name="modified">2019-01-30T09:51:44</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -15,6 +15,9 @@
         <option name="FOREGROUND" value="ff00" />
         <option name="BACKGROUND" value="ffffff" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
   </attributes>
 </scheme>
