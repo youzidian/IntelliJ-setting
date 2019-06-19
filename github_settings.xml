@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="HOST" value="https://project.scmp.tech/technology/business-system/circ-dayend-master.git" />
+    <option name="VALID_GIT_AUTH" value="false" />
+  </component>
+</application>
